@@ -15,6 +15,11 @@ export default function NavBar() {
             About the extension
           </Link>
         </li>
+        <li>
+          <Link href="/policy">
+            Privacy Policy
+          </Link>
+        </li>
       </ul>
     </nav>
   )
